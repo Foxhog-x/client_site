@@ -1,0 +1,168 @@
+.nav_bar{
+  background-color: #FFFFFF;
+  height: 40px;
+  display: flex;
+   
+}
+ .nav_bar_drop{
+  background-color: #FFFFFF;
+  height: 100px;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+   
+
+ }
+ .nav_bar{
+  display: flex;
+  justify-content: center;
+ 
+ }
+ .nav_bar_link{
+  background-color: #FAFAFA;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  margin-right: 20px;
+  gap: 35px;
+  width: 90%;
+  margin-right: 20px;
+ }
+
+ .nav_links_top{
+  display: flex;
+  gap: 35px;
+  margin-right: 25px;
+  align-items: center;
+ }
+ .nav_content{
+  display: flex;
+  justify-content: center;
+ 
+ }
+ .logo{
+  width: 120px;
+  height: 100px;
+  background-color: #FFFFFF;
+  display: grid;
+   
+   
+  place-content: center;
+ }
+ .nav_link{
+   display: flex;
+   gap: 75px;
+   margin-inline-end: 80px;
+  align-items: center;
+ }
+ .nav_content {
+  position: relative;
+  background-image: url('https://static.wixstatic.com/media/744802_cb90699e5c344a32abc8c38a88e48511~mv2.jpg/v1/fill/w_1880,h_729,al_t,q_85,enc_auto/744802_cb90699e5c344a32abc8c38a88e48511~mv2.jpg');   
+  background-size: cover;  
+  background-position: center;
+  height: 500px;  
+  overflow: hidden;  
+
+}
+
+.nav_content p {
+   
+  color: #FFFFFF;
+  padding: 20px;
+   
+}
+
+.nav_bar_bottom{
+ display: flex;
+ background-color: #FAFAFA;
+}
+.nav_bar_bottom_links{
+  
+ height: 45px;
+ display: flex;
+ gap: 10px;
+ align-items: center;
+ justify-content: flex-start;
+ margin-inline-start: 45px;
+}
+.heading_container{
+  display: flex;
+  height: 500px;
+}
+.heading_tag{
+  display: flex;
+  margin-top: 75px;
+  justify-content: flex-start;
+  margin-left: 90px;
+  flex-direction: column;
+  gap: 25px;
+}
+.section_content{
+  display: flex;
+  gap: 14px;
+  flex-direction: column;
+  margin-top: 50px;
+  width: 860px;
+}
+p{
+  letter-spacing: 1.5px;
+  line-height: 25px;
+}
+
+/* {} */
+h1{
+  
+  font-size: 50px;
+}
+input{
+  width: 194px;
+  height: 38px;
+  border: hidden;
+}
+
+.about_us_container{
+  height: 500px;
+  display: flex;
+  background-color: aliceblue;
+  background-image: url('https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.erlang-solutions.com/wp-content/uploads/2021/02/Abstract-1-edited.jpg');   
+  background-size: cover;  
+  background-position: center;
+  height: 500px;  
+    
+}
+.about_us_content{
+  display: flex;
+  margin-left: 90px;
+  margin-top: 50px;
+  flex-direction: column;
+  gap: 50px;
+}
+.about_section{
+  width: 825px;
+}
+
+.about_us_text{
+  color: white;
+}
+.watch_about_btn{
+  margin-top: 50px;
+  width: 200px;
+  height: 35px;
+}
+
+.corporate_philosophy_container{
+ 
+  height: 100vh;
+   
+}
+
+.philosopy_content{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 50px;
+  
+}
+ .phi_content_container{
+
+ }
